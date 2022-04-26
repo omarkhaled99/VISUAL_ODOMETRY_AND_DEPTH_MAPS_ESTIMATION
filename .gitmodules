@@ -1,0 +1,3 @@
+[submodule "RNN_depth_pose"]
+	path = RNN_depth_pose
+	url = https://github.com/omarkhaled99/RNN_depth_pose.git
